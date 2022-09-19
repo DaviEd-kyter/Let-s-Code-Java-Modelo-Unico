@@ -1,6 +1,6 @@
 package ModeloUnico;
 
-public class Lógicos {
+public class Logicos {
     public static void main(String[] args) {
 
         //Boolean
@@ -12,14 +12,28 @@ public class Lógicos {
         boolean fimDeSemana = true;
         boolean fazendoSol = true;
         boolean vamosAPraia = fimDeSemana && fazendoSol;
-        System.out.println("Vamos a praia?");
-        System.out.println(vamosAPraia);
 
         //Tabela verdade
         //Operador && (AND)
         //true && true = true
-        //true && false =
-        //false && true =
-        //false && false =
+        //true && false = false
+        //false && true = false
+        //false && false = false
+
+        //Operador || (OR)
+        // true || true = true
+        // true || false = true
+        // false || true = true
+        //false || false = false
+
+        System.out.println("Vamos a praia?");
+        System.out.println(vamosAPraia);
+
+        System.out.println("=================");
+
+        //Operador ternario "?"
+        String mensagem = fimDeSemana ? "É fim de semana" : "Não é fim de semana";
+        System.out.println(mensagem);
+
     }
 }

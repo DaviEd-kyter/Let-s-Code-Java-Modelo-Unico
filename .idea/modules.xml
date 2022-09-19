@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/LetsCodeMunico.iml" filepath="$PROJECT_DIR$/LetsCodeMunico.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LetsCodeMUnico.iml" filepath="$PROJECT_DIR$/LetsCodeMUnico.iml" />
     </modules>
   </component>
 </project>
