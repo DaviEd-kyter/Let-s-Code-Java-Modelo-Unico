@@ -1,7 +1,7 @@
 <h1 align="center">~ ⚡Let-s-Code-Modelo-Unico ⚡ ~</h1>
 <br>
 <div align="center"> 
- ## - 🌱 I’m currently learning mobile development 
+ ## - 🌱 Santander Coders | Mobile (Kotlin) || Curso Online
 <br>
 <h1>
 <div align="center"> 
